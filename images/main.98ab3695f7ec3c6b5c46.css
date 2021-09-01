@@ -15375,7 +15375,7 @@ body.zh-tw .unlistedTemplatizedItem .unlistedTemplatizedItem__nav .unlistedTempl
 .gallery .gallery__wrapper .gallery__item {
     margin: 15px;
     text-align: center;
-    max-width: calc(25% - 30px);
+    max-width: calc(45% - 120px);
     align-self: flex-end
 }
 
