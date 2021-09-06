@@ -4204,3 +4204,148 @@ body.zh-tw .patchnotes-detail__voidedge .patchnotes__promos .promo__row:nth-chil
 .patchnotes-detail__crystalguard .patchnotes__bugfixes .promo__row:nth-child(2) .promo__wrapper .btn {
     margin-top: 20px
 }
+
+
+.patchnotes-detail__watchingnixe {
+    background: #100915 url(https://static-dm.akamaized.net/siege/prod/r6s-velvetshell-bg-header.jpg) 50% 0 no-repeat;
+    background-size: 100%
+}
+
+.patchnotes-detail__watchingnixe p {
+    color: #cfbfbc
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__header .promo__wrapper {
+    padding: 50vw 0 0
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__header .promo__wrapper__media {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    margin: 28% 0 0 -25%;
+    width: 50%;
+    height: auto
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__header .promo__wrapper__media img {
+    max-width: 100%
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__intro .promo__wrapper {
+    max-width: 800px
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__intro p {
+    color: #cfbfbc
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__operatorsTitle {
+    background-color: #000;
+    padding-bottom: 3%
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__loadout .patchnotes__loadout__category__title {
+    border-top: 1px solid #723093
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__loadout .patchnotes__loadout__category__items p {
+    color: #723093
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__loadout .patchnote__stat {
+    border-top: 1px solid #723093
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__ability {
+    width: 50%
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__ability .promo__wrapper h2 {
+    border-top: 1px solid #723093
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__ability .promo__wrapper h3 {
+    color: #723093
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__ability .promo__wrapper button {
+    border: 1px solid #723093;
+    width: 50%
+}
+
+@media only screen and (max-width:1024px) {
+    .patchnotes-detail__watchingnixe .patchnotes__ability .promo__wrapper button {
+        width: 75%
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .patchnotes-detail__watchingnixe .patchnotes__ability .promo__wrapper button {
+        width: 50%
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    .patchnotes-detail__watchingnixe .patchnotes__ability {
+        margin-top: 20px;
+        width: 100%
+    }
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:first-child .promo__wrapper {
+    padding-top: 35%;
+    background-image: url(https://static-dm.akamaized.net/siege/prod/r6s-velvetshell-bg-travel.jpg);
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:first-child h2 {
+    margin: 0
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:nth-child(2) {
+    position: relative;
+    padding: 3% 0;
+    background-image: url(../images/r6s-watchingnixe-towerrework.jpg), url(https://static-dm.akamaized.net/siege/prod/r6s-velvetshell-bg-top.png);
+    background-position: 50% 100%, 50% 0;
+    background-repeat: no-repeat;
+    background-size: 100% auto
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:nth-child(2) .promo__wrapper {
+    margin: -6% 0 0;
+    padding: 43% 0 5%;
+    background-color: transparent;
+    background-image: url(https://static-dm.akamaized.net/siege/prod/r6s-velvetshell-weapons-skins.png);
+    background-size: 100% auto
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:nth-child(2) h2 {
+    margin: 0
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:nth-child(3) .promo__wrapper {
+    padding-top: 34%;
+    background-image: url(https://static-dm.akamaized.net/siege/prod/r6s-velvetshell-bg-bottom.png), url(https://static-dm.akamaized.net/siege/prod/r6s-velvetshell-bg-customization-elite.jpg);
+    background-position: 50% 100%, 50% 0;
+    background-repeat: no-repeat;
+    background-size: 100%, cover
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:nth-child(3) h2 {
+    margin: 0
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:nth-child(4) .promo__wrapper {
+    padding-top: 34%;
+    background-image: url(https://static-dm.akamaized.net/siege/prod/r6s-velvetshell-bg-bottom.png), url(https://static-dm.akamaized.net/siege/prod/r6s-velvetshell-bg-y2pass.jpg);
+    background-position: 50% 100%, 50% 0;
+    background-repeat: no-repeat;
+    background-size: 100% auto
+}
+
+.patchnotes-detail__watchingnixe .patchnotes__promos .promo__row:nth-child(4) h2 {
+    margin: 0
+}
